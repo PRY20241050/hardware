@@ -14,6 +14,8 @@ void setup() {
   //pinMode(LED_AZUL, OUTPUT);
 }
 
+// PPM
+
 void loop() {
    //LECTURA DEL mq135
   float ppm_mq135 = mq135_sensor.getPPM();
