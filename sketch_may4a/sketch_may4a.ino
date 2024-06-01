@@ -15,6 +15,7 @@ void setup() {
 }
 
 // PPM
+// IoT core integration
 
 void loop() {
    //LECTURA DEL mq135
